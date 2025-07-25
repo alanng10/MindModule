@@ -10,8 +10,7 @@ Think trigg get and set Imagine.
 
 Think trigg get and set Memory.
 
-Think get data from Memory.
-The data present Think operate.
+Think get operate data from Memory.
 
 Think operate kind has set data to Memory
 and set data to Imagine.
