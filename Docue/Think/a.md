@@ -14,3 +14,5 @@ Think get operate data from Memory.
 
 Think operate kind has get and set data to Memory
 and set data to Imagine.
+
+Think is Compute.
