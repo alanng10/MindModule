@@ -10,7 +10,7 @@ The operate is Class Binary operate.
 
 The operate is Memory module state operate.
 
-Think implem Class Binary operate.
+Think implem the operate to process.
 
 Think import Class compiler module list to implem operate.
 
