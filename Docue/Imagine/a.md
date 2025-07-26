@@ -12,4 +12,4 @@ Imagine has state list.
 
 The state list execute System module list field and maide.
 
-Imagine import System only.
+Imagine import Class compiler module list.
