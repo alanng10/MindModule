@@ -2,4 +2,4 @@
 
 Mind has Memory.
 
-Memory is mind work module list.
+Memory is mind work module binary list.
